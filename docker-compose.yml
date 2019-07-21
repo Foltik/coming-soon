@@ -1,0 +1,7 @@
+version: '3.7'
+
+services:
+  nginx:
+    image: foltik/coming-soon
+    ports:
+      - 80:80
